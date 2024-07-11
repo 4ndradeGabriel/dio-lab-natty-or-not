@@ -1,51 +1,38 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: TechTalk - Explorando o Futuro 🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um podcast com pouco mais de 5 minutos abordando Inteligência Artificial, novidades, aplicações tecnológicas e como tudo isso afeta as nossas vidas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- Audio gerado pela **[ElevenLabs](https://elevenlabs.io/)**;
+- **[Canva](https://www.canva.com/)** Para gerar capas;
+- Software **[CapCut](https://www.capcut.com/pt-br/)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "CElevenLabs" ajudou a criar uma voz sintética para a narração e "CapCut" foi usado para a edição final do episódio do Podcast.
 
+## 📚 Materiais
+- **[Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-a0546752e9514b1790452af8b14cca3d?pvs=4)** Aqui estão todos os materiais do projeto.
+- **[Notion](https://www.notion.so/Roterista-f3bba96f98d54665a79df98b23aafce6?pvs=4)** Link para os prompts do projeto.
+- **[Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)** CapCut versão online.
+  
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma introdução sobre o mundo das IAs, como tem facilitado nossas tarefas diárias,novidades e inovações da área, o impacto no mercado de trabalho, e suas aplicações promissoras nas mais diversas áreas, destacando seus benefícios e seus desafios.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+**[LINK PARA O PODCAST AQUI](https://github.com/4ndradeGabriel/dio-lab-natty-or-not/blob/main/output/edited-podcast.MP3)**
 
-### Exemplos e Insigths
+## 💭 Reflexão
+O mundo das Inteligências Artificiais (IAs) está revolucionando a maneira como vivemos e trabalhamos. Essas tecnologias avançadas estão facilitando nossas tarefas diárias, desde assistentes virtuais que organizam nossa agenda até sistemas de recomendação que nos ajudam a escolher o que assistir ou comprar. No mercado de trabalho, a IA está transformando setores inteiros, automatizando processos repetitivos e permitindo que os profissionais se concentrem em atividades mais criativas e estratégicas. As aplicações promissoras da IA são vastas, abrangendo áreas como saúde, educação, finanças e muito mais, proporcionando benefícios significativos, como aumento da eficiência e melhor tomada de decisões.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+No entanto, essa revolução tecnológica também apresenta desafios, como a necessidade de requalificação da força de trabalho e questões éticas relacionadas ao uso e privacidade dos dados. O futuro das IAs é promissor, mas exige um equilíbrio cuidadoso entre inovação e responsabilidade para garantir que os benefícios sejam amplamente distribuídos e os riscos minimizados. Refletir sobre esses aspectos é essencial para compreender o verdadeiro impacto das IAs em nossa sociedade e como podemos nos preparar para um futuro impulsionado pela inteligência artificial.
 
-## Links Interessantes
+## 👨‍💻 Autor
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Gabriel Andrade  
+[GitHub](https://github.com/4ndradeGabriel)  
+[LinkedIn](https://www.linkedin.com/in/andradegabrielw)  
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
+
+Desenvolvido por [Gabriel Andrade](https://github.com/4ndradeGabriel)
